@@ -38,10 +38,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Computer Science
+    - course: PhD in Computer Engineering (Electrical Engineering)
       institution: Arizona State University
       year: 2025-Present
-    - course: PhD in Computer Science
+    - course: PhD in Electrical and Computer Engineering
       institution: University of New Mexico
       year: 2024-2025
     - course: MSc in Computer Science
